@@ -1,3 +1,4 @@
 nihao
 hello,world!
 a new day!
+a second day!
